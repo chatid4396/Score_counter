@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="name_str">Hello chatid!</string>
+    <string name="name_bt1">Yes!</string>
+    <string name="name_bt2">No!!!!!!</string>
+    <string name="name_team">Team A</string>
+    <string name="score">0</string>
+    <string name="add1">1 point</string>
+    <string name="add2">2 points</string>
+    <string name="add3">3 points</string>
+    <string name="reset">RESET</string>
+    <string name="one_point">FREE THROW</string>
+    <string name="A_team">Team A</string>
+    <string name="B_team">Team B</string>
 </resources>
